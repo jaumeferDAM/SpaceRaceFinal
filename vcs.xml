@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/jaumeferDAM/M8Superkoalio.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lperpinya1974/superkoalio.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ALUMNEDAM\AndroidStudioProjects" />
