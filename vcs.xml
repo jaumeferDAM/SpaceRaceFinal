@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/biros95/AirHockeyDam.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Biros95/AirHockeyDam" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\ALUMNEDAM\Downloads" />
+    <option name="cloneParentDir" value="C:\Users\ALUMNEDAM\AndroidStudioProjects" />
   </component>
 </application>
