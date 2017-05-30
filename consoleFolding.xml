@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="05-30 15:40:40.666 175-175/? W/ADB_SERVICES: LS(25800): bound to 'shell:cat /proc/net/xt_qtaguid/stats | grep 10348' via 42" />
+      </list>
+    </option>
+  </component>
+</application>
