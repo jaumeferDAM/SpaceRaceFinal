@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="test" type="Images" />
       <mapping pattern="textures" type="PLAIN_TEXT" />
+      <mapping ext="fnt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
